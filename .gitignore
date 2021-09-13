@@ -1,4 +1,5 @@
 /.vscode
 /视频_1-zimujiang.com.srt
 /说明.txt
-Python/.md/*
+Python/.md*
+Python/.doc*
